@@ -46,6 +46,6 @@ server.post('/api/submitID', async (req,res)=>{
     
 })
 
-server.listen(8080,()=>{
+server.listen(8000,()=>{
     console.log('Server Started')
 })
